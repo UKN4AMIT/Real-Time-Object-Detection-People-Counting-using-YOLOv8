@@ -1,4 +1,3 @@
-readme_content = """
 # 🧠 YOLOv8 Object Detection and Counting App
 
 Streamlit-based app using YOLOv8 for object detection on images, videos, and live webcam. 
