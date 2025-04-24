@@ -22,14 +22,3 @@ numpy
 lap (via `conda install -c conda-forge lap` on macOS if needed)
 
 Created by Amit Kumar ✨
-"""
-
-st.sidebar.download_button("📄 Download README.md", data=readme_content, file_name="README.md")
-
-requirements_txt = """streamlit
-ultralytics
-opencv-python
-numpy
-lap
-"""
-st.sidebar.download_button("📦 Download requirements.txt", data=requirements_txt, file_name="requirements.txt")
